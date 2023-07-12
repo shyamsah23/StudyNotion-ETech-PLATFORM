@@ -1,1 +1,2 @@
 # StudyNotion-ETech-PLATFORM
+FULL STACK PROJECT
