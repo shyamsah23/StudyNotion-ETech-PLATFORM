@@ -95,6 +95,7 @@ To run tests, run the following command
  - MongoDB
  - Razopay
  - Cloudinary
+ - PostMan
 ## Features
 
 **FRONT_END:**
@@ -195,5 +196,7 @@ To run this project, you will need to add the following environment variables to
 - Use of React- Router .
 
 - Middlewares for Authentication.
+
+- PostMan For API Testing
 
 
