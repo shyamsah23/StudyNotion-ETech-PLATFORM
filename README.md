@@ -164,7 +164,7 @@ To run this project, you will need to add the following environment variables to
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
+**Server:** Node, Express , PostMan
 
 **DataBase:** MongoDB
 
