@@ -132,6 +132,51 @@ The back end of StudyNotion provides a range of features and functionalities, in
 - Markdown formatting: Course content in document format is stored in Markdown format, which allows for easier display and rendering on the front end.
 
 
+## ScreenShots
+
+- HomePage
+
+  
+![homesection](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/d1494cbc-5a49-4a9d-b17d-9f9c5b39c096)
+
+
+<br>
+
+- SignUp / SignIn For Students, Instructors
+
+
+![Login](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/b92b0592-5df7-4963-9ed3-005358f85969)
+
+
+  * Instrcutor DashBoard with PIE Chart For Better Visualization
+
+    
+![InstructorDashBoard](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/42b29ca5-2682-4fbb-b8de-63616e9fab77)
+
+
+  * Course Creation
+    
+  
+![CourseCreation](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/e0796b57-5361-4550-8c44-e60d408d4f9c)
+
+
+  * List of All Created Course By an Instrcutor
+
+    
+![InstrcutorCourseList](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/44015b09-d466-4aa1-9434-fb637277ee4b)
+
+
+- Payment Integration ( Payment done by the Studnet to purcase Course )
+
+![paymentRazoPay](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/e3cbb94d-4805-4e90-b363-ddf7bb37ce50)
+
+
+
+ - List Of Enrolled courses by an Student
+
+
+
+![EnrollerdCourses](https://github.com/shyamsah23/StudyNotion-ETech-PLATFORM/assets/92447257/c0f8745f-eabe-4ed2-91fb-973bde200da1)
 
 
 
